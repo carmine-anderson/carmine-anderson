@@ -47,9 +47,11 @@ Example: github.com/YOUR-USERNAME/YOUR-USERNAME
   <p>
     <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmine-anderson&layout=compact&hide_border=true" />
   </p>
+  <!--
   <p>
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carmine-anderson&show_icons=true&hide_border=true" />
   </p>
+  -->
 </details>
 
 <details>
