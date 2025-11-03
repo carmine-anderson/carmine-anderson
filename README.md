@@ -8,7 +8,7 @@ Example: github.com/YOUR-USERNAME/YOUR-USERNAME
 <p align="center">
   <a href="https://your-website.com">Website</a> •
   <a href="https://www.linkedin.com/in/yourhandle">LinkedIn</a> •
-  <a href="mailto:you@email.com">Email</a> •
+  <a href="mailto:carmine.anderson@outlook.com">Email</a> •
   <a href="https://twitter.com/yourhandle">Twitter/X</a>
 </p>
 
