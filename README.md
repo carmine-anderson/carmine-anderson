@@ -13,63 +13,42 @@ Example: github.com/YOUR-USERNAME/YOUR-USERNAME
 
 ---
 
-### 🚀 What I’m working on
-- Building BENI — a Next.js + TypeScript, LangChain-powered multi-agent assistant that remembers every interaction, uses Supabase + websockets for real-time memory/search, and generates tailored prompts and tools to help small businesses get work done faster.
-- Learning **LangChain and AI Agents** and **Supabase/Websockets, Buckets and using a Drizzle ORM for inbedded querying**.
-- Exploring **open source** by contributing to projects in the **AI agents, LangChain, and Supabase** ecosystem.
+### 🚀 What I'm working on
+
+- **[DoAutonomy](https://github.com/doautonomy)** — a personal org where we build purposeful side projects that solve real operational problems. The focus is automation, AI tooling, and internal software that replaces manual workflows in service-based businesses.
+
+- **AMC-CRM** *(doautonomy)* — a voice-driven mobile CRM for service-based businesses, built with **Expo (React Native) + TypeScript**, **Supabase** (Postgres, Realtime, RLS), and **Zustand** for state. Instructors manage student progress, daily lesson recaps, and program milestones from a single mobile-first interface. The next phase wires in a push-to-talk AI pipeline (speech-to-text → LLM → text-to-speech) so staff can update records hands-free mid-session.
+
+- **BENI** *(learning track)* — deepening expertise in **Expo Router**, **React Native Reanimated**, **Supabase Realtime**, and building offline-first mobile experiences backed by a PostgreSQL row-level security model.
+
+- Exploring **open source** contributions in the **AI agents, Supabase, and mobile tooling** ecosystem.
 
 ### 🧰 Tech I use
-`TypeScript` · `React` · `Node.js` · `Python` · `PostgreSQL` · `Docker` · `AWS` · `Next.js` · `Tailwind` · `Prisma` · `tRPC` · `Terraform`
+`TypeScript` · `React Native` · `Expo` · `React` · `Node.js` · `Python` · `PostgreSQL` · `Supabase` · `Docker` · `AWS` · `Next.js` · `Tailwind` · `Prisma` · `tRPC` · `Terraform` · `Zustand` · `Zod`
 
 ### 🧭 About me
-- 💡 Interests: Frontend UI/UX design and implementation, Backend API implementation and communication as well as the intersections between Healthcare and Computer Science. 
+- 💡 Interests: Frontend UI/UX design and implementation, Backend API design, and the intersections between Healthcare and Computer Science.
 - 🎓 Senior, CS & Data Science @ UNC Chapel Hill
+- 🏢 Org: [doautonomy](https://github.com/doautonomy) — purposeful builds that automate real-world operations
 - 🤝 Open to: internships · collabs · mentoring · speaking
-<!-- 
-### 📌 Featured projects
-
-- **[Project One](https://github.com/your-username/project-one)** — What it does in one sentence.
-- **[Project Two](https://github.com/your-username/project-two)** — What it does in one sentence.
-- **[Project Three](https://github.com/your-username/project-three)** — What it does in one sentence.
-
-
-### ✍️ Recent writing / talks
-- **Title** — short description or event (link)
-- **Title** — short description or event (link)
-
--->
 
 <details>
-  <summary>🔢 GitHub quick stats </summary>
-
-  <!-- Replace "your-username" below. You can delete this whole block if you prefer a cleaner page. -->
+  <summary>🔢 GitHub quick stats</summary>
 
   <p>
     <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmine-anderson&layout=compact&hide_border=true" />
   </p>
-  <!--
-  <p>
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carmine-anderson&show_icons=true&hide_border=true" />
-  </p>
-  -->
 </details>
 
 <details>
   <summary>🧪 Tooling & setup</summary>
 
-- Editor: VS Code (+ ESLint, Prettier, GitLens)
-- Preferred stack: React · TypeScript · Node · Postgres · Prisma/tRPC
+- Editor: VS Code / Cursor (+ ESLint, Prettier, GitLens)
+- Preferred stack: React Native · TypeScript · Node · Postgres · Supabase · Prisma/tRPC
 - CI/CD: GitHub Actions • Vercel/Netlify • Docker
 </details>
 
 ---
 
-### 🤝 Let’s connect
-If you’ve got an interesting problem or project, I’d love to chat—reach me via **email** or **LinkedIn** above.
-
-<!--
-Housekeeping:
-- Keep this README short and current.
-- Pin 3–6 repos on your profile that reflect your best work.
-- Swap in project badges, screenshots, or short demos as you like.
--->
+### 🤝 Let's connect
+If you've got an interesting problem or project, I'd love to chat — reach me via **email** or **LinkedIn** above.
